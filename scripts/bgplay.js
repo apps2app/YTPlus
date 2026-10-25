@@ -1,7 +1,8 @@
 /*****YTPRO*******
-Author: Prateek Chaubey
-Version: 3.9.2
-URI: https://github.com/prateek-chaubey/YTPRO
+Author: APPS2APP
+Version: 4.0.0
+URI: https://github.com/apps2app/YTPlus
+Last Updated On: 25 Oct , 2026
 */
 
 if (typeof MediaMetadata === 'undefined') {
