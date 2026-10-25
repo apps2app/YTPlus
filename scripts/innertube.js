@@ -1,8 +1,8 @@
 /*****YTPRO*******
-Author: Prateek Chaubey
+Author: APPS2APP
 Version: 4.0.0
-URI: https://github.com/prateek-chaubey/YTPRO
-Last Updated On: 19 Sep , 2026 , 07:11 IST
+URI: https://github.com/apps2app/YTPlus
+Last Updated On: 25 Oct , 2026
 */
 
 
